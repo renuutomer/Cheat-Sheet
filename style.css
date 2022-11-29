@@ -1,0 +1,38 @@
+body {
+    background-color: lightgrey;
+  }
+  
+  h1 {
+    text-align: center;
+    font-family: monospace;
+  }
+  
+  h2 {
+    color: hsl(270, 50%, 40%);;
+    text-align: center;
+    font-family: monospace;
+  }
+  
+  table {
+    text-align: left;
+    border: 2px solid darkmagenta;
+    margin: 0px auto;
+    width: 650px;
+  }
+  
+  th {
+    background-color: plum;
+    font-family: monospace;
+    font-size: large;
+  }
+  
+  td {
+    font-family: monospace;
+    font-size: medium;
+    border-top: 1px solid darkmagenta;
+  }
+  
+  .html-code {
+    background-color: lightyellow;
+  }
+  
